@@ -1,0 +1,11 @@
+body{
+  height:180px;  
+  bacground-color:rgb{36, 36, 36};
+  color:whitesmoke;
+  display:grid;
+  place-items:center;
+  font-family:"seger UI",Tahona,Genova,Verdana,sans.sherif;
+  letter-spacing:2px;
+   text-transform:uppercase;
+}
+
